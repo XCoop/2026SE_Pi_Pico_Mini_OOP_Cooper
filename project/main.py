@@ -7,7 +7,7 @@ from time import sleep
 sleep(0.1)
 
 # File name of the script to import
-file_name = "3.analog_sensor"
+file_name = "7.i2c"
 
 # Add the path to the sys.path
 sys.path.append("/py_scripts")
